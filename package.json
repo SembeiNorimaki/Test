@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "name": "test2",
+  "description": "Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SembeiNorimaki/Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SembeiNorimaki/Test/issues"
+  },
+  "homepage": "https://github.com/SembeiNorimaki/Test#readme"
+}
